@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Axe | Centro Legal",
-  description: "Documentos legais oficiais, termos de serviço e políticas de privacidade para o aplicativo Axe.",
+  title: "Zambi | Centro Legal",
+  description: "Documentos legais oficiais, termos de serviço e políticas de privacidade para o aplicativo Zambi.",
 };
 
 export default function AxePortal() {
@@ -29,10 +29,10 @@ export default function AxePortal() {
             </svg>
           </div>
           <h1 className="text-4xl sm:text-5xl font-black tracking-tight text-zinc-900 dark:text-white">
-            Axe <span className="bg-gradient-to-r from-rose-500 to-violet-600 bg-clip-text text-transparent">Centro Legal</span>
+            Zambi <span className="bg-gradient-to-r from-rose-500 to-violet-600 bg-clip-text text-transparent">Centro Legal</span>
           </h1>
           <p className="text-base sm:text-lg text-zinc-600 dark:text-zinc-400">
-            Selecione um dos documentos abaixo para revisar os termos de serviço ou as políticas de privacidade oficiais que regem o uso do Axe.
+            Selecione um dos documentos abaixo para revisar os termos de serviço ou as políticas de privacidade oficiais que regem o uso do Zambi.
           </p>
         </div>
 

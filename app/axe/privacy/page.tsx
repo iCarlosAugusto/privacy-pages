@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Política de Privacidade | Axe",
-  description: "Política de Privacidade do Axe. Saiba como lidamos com seus dados, o uso do Supabase e Firebase, e como protegemos sua privacidade.",
+  title: "Política de Privacidade | Zambi",
+  description: "Política de Privacidade do Zambi. Saiba como lidamos com seus dados, o uso do Supabase e Firebase, e como protegemos sua privacidade.",
 };
 
 const SECTIONS = [
@@ -34,7 +34,7 @@ export default function AxePrivacyPolicy() {
             </div>
             <div>
               <span className="font-bold text-lg tracking-tight bg-gradient-to-r from-zinc-900 to-zinc-700 dark:from-zinc-100 dark:to-zinc-300 bg-clip-text">
-                Axe
+                Zambi
               </span>
               <span className="block text-xs text-zinc-500 dark:text-zinc-400 font-medium">Centro Legal</span>
             </div>
@@ -69,7 +69,7 @@ export default function AxePrivacyPolicy() {
             Política de Privacidade
           </h1>
           <p className="text-lg text-zinc-600 dark:text-zinc-400 max-w-2xl mx-auto leading-relaxed">
-            Sua privacidade é o nosso valor fundamental. Esta política descreve como o Axe protege, gerencia e respeita seus dados pessoais.
+            Sua privacidade é o nosso valor fundamental. Esta política descreve como o Zambi protege, gerencia e respeita seus dados pessoais.
           </p>
         </div>
       </section>
@@ -126,10 +126,10 @@ export default function AxePrivacyPolicy() {
               </h2>
               <div className="text-zinc-600 dark:text-zinc-400 leading-relaxed space-y-3">
                 <p>
-                  Bem-vindo ao <strong>Axe</strong> (o &quot;Aplicativo&quot;). Esta Política de Privacidade explica como Carlos Vieira (&quot;nós&quot;, &quot;nos&quot; ou &quot;nosso&quot;) coleta, usa e protege as informações quando você utiliza o nosso aplicativo móvel.
+                  Bem-vindo ao <strong>Zambi</strong> (o &quot;Aplicativo&quot;). Esta Política de Privacidade explica como Carlos Vieira (&quot;nós&quot;, &quot;nos&quot; ou &quot;nosso&quot;) coleta, usa e protege as informações quando você utiliza o nosso aplicativo móvel.
                 </p>
                 <p>
-                  Ao baixar, instalar ou usar o Axe, você concorda com a coleta e uso de informações de acordo com esta Política de Privacidade.
+                  Ao baixar, instalar ou usar o Zambi, você concorda com a coleta e uso de informações de acordo com esta Política de Privacidade.
                 </p>
               </div>
             </section>
@@ -214,7 +214,7 @@ export default function AxePrivacyPolicy() {
               </h2>
               <div className="text-zinc-600 dark:text-zinc-400 leading-relaxed space-y-3">
                 <p>
-                  Para operar o Axe de forma eficiente, colaboramos com provedores de infraestrutura de alta confiança. Esses serviços de terceiros processam dados em nosso nome e estão sujeitos a termos de confidencialidade:
+                  Para operar o Zambi de forma eficiente, colaboramos com provedores de infraestrutura de alta confiança. Esses serviços de terceiros processam dados em nosso nome e estão sujeitos a termos de confidencialidade:
                 </p>
                 
                 <div className="space-y-4 my-6">

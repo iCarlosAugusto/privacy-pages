@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Termos de Serviço | Axe",
-  description: "Termos de Serviço do Axe. Leia nossas regras simples de uso, políticas de dados e contatos do desenvolvedor.",
+  title: "Termos de Serviço | Zambi",
+  description: "Termos de Serviço do Zambi. Leia nossas regras simples de uso, políticas de dados e contatos do desenvolvedor.",
 };
 
 const SECTIONS = [
@@ -32,7 +32,7 @@ export default function AxeTermsOfService() {
             </div>
             <div>
               <span className="font-bold text-lg tracking-tight bg-gradient-to-r from-zinc-900 to-zinc-700 dark:from-zinc-100 dark:to-zinc-300 bg-clip-text">
-                Axe
+                Zambi
               </span>
               <span className="block text-xs text-zinc-500 dark:text-zinc-400 font-medium">Centro Legal</span>
             </div>
@@ -67,7 +67,7 @@ export default function AxeTermsOfService() {
             Termos de Serviço
           </h1>
           <p className="text-lg text-zinc-600 dark:text-zinc-400 max-w-2xl mx-auto leading-relaxed">
-            Regras simples e diretas para o uso do Axe. Sem letras miúdas, sem jargões jurídicos complicados.
+            Regras simples e diretas para o uso do Zambi. Sem letras miúdas, sem jargões jurídicos complicados.
           </p>
         </div>
       </section>
@@ -124,7 +124,7 @@ export default function AxeTermsOfService() {
               </h2>
               <div className="text-zinc-600 dark:text-zinc-400 leading-relaxed space-y-3">
                 <p>
-                  Ao acessar, baixar ou usar o aplicativo <strong>Axe</strong>, você concorda em cumprir e estar vinculado a estes simples Termos de Serviço.
+                  Ao acessar, baixar ou usar o aplicativo <strong>Zambi</strong>, você concorda em cumprir e estar vinculado a estes simples Termos de Serviço.
                 </p>
                 <p>
                   Se você não concordar com qualquer parte destes termos, por favor, descontinue o uso do aplicativo e remova-o do seu dispositivo.
@@ -140,7 +140,7 @@ export default function AxeTermsOfService() {
               </h2>
               <div className="text-zinc-600 dark:text-zinc-400 leading-relaxed space-y-4">
                 <p>
-                  Sua privacidade é extremamente importante para nós. Aqui está a estrutura de dados do Axe em linguagem simples:
+                  Sua privacidade é extremamente importante para nós. Aqui está a estrutura de dados do Zambi em linguagem simples:
                 </p>
                 
                 {/* Visual Card Row */}
@@ -185,7 +185,7 @@ export default function AxeTermsOfService() {
               </h2>
               <div className="text-zinc-600 dark:text-zinc-400 leading-relaxed space-y-3">
                 <p>
-                  Para manter o Axe seguro e funcional para todos, você concorda em:
+                  Para manter o Zambi seguro e funcional para todos, você concorda em:
                 </p>
                 <ul className="list-disc pl-5 space-y-2">
                   <li>Usar o aplicativo somente em conformidade com as leis locais.</li>
@@ -204,7 +204,7 @@ export default function AxeTermsOfService() {
               </h2>
               <div className="text-zinc-600 dark:text-zinc-400 leading-relaxed space-y-3">
                 <p>
-                  A marca, o layout de design, os elementos visuais e o código-fonte do aplicativo Axe pertencem a <strong>Carlos Vieira</strong>.
+                  A marca, o layout de design, os elementos visuais e o código-fonte do aplicativo Zambi pertencem a <strong>Carlos Vieira</strong>.
                 </p>
                 <p>
                   Concedemos a você uma licença pessoal, limitada, não exclusiva e revogável para baixar e executar o aplicativo no seu dispositivo móvel. Qualquer redistribuição ou reaproveitamento comercial de nossos recursos é proibido.
@@ -220,7 +220,7 @@ export default function AxeTermsOfService() {
               </h2>
               <div className="text-zinc-600 dark:text-zinc-400 leading-relaxed space-y-3">
                 <p>
-                  O Axe é fornecido &quot;COMO ESTÁ&quot;, sem garantias de qualquer tipo. Embora nos esforcemos para oferecer a melhor experiência ao usuário, não podemos garantir que o aplicativo estará sempre livre de erros ou interrupções.
+                  O Zambi é fornecido &quot;COMO ESTÁ&quot;, sem garantias de qualquer tipo. Embora nos esforcemos para oferecer a melhor experiência ao usuário, não podemos garantir que o aplicativo estará sempre livre de erros ou interrupções.
                 </p>
                 <p>
                   Na extensão máxima permitida pela lei aplicável, o desenvolvedor não se responsabiliza por quaisquer danos indiretos ou incidentais resultantes do uso do aplicativo.

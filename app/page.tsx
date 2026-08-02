@@ -18,7 +18,7 @@ const APPS = [
     isNew: true,
   },
   {
-    name: "Axe",
+    name: "Zambi",
     description: "Ferramenta e serviços com autenticação Supabase e notificações Firebase.",
     gradient: "from-rose-500 via-violet-600 to-indigo-600",
     badgeColor: "bg-rose-500/10 text-rose-600 dark:text-rose-400 border-rose-500/20",
