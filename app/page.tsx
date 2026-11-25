@@ -8,6 +8,16 @@ export const metadata: Metadata = {
 
 const APPS = [
   {
+    name: "Concursos Finder",
+    description: "Encontre e acompanhe concursos públicos. Sem cadastro, sem rastreamento: seus dados ficam só no seu aparelho.",
+    gradient: "from-emerald-500 via-teal-500 to-sky-600",
+    badgeColor: "bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border-emerald-500/20",
+    privacyUrl: "/concursos-finder/privacy",
+    termsUrl: "/concursos-finder/terms-of-service",
+    hubUrl: "/concursos-finder",
+    isNew: true,
+  },
+  {
     name: "Tukanos",
     description: "Aplicativo móvel com funcionalidades baseadas em localização, e-mail e notificações push. Dados 100% protegidos e sem venda de informações.",
     gradient: "from-amber-500 via-orange-500 to-emerald-500",
@@ -15,7 +25,7 @@ const APPS = [
     privacyUrl: "/tukanos/privacy",
     termsUrl: "/tukanos/terms-of-service",
     hubUrl: "/tukanos",
-    isNew: true,
+    isNew: false,
   },
   {
     name: "Zambi",
@@ -64,7 +74,7 @@ export default function Home() {
         </div>
 
         {/* Apps Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-5xl">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 w-full max-w-6xl">
           {APPS.map((app) => (
             <div
               key={app.name}
